@@ -1,1 +1,1 @@
-# learning_python
+# First repository to include my learning Python projects
